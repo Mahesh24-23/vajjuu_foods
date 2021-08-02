@@ -584,6 +584,27 @@ li{
 
   
   }
+  @media screen and (max-width:480px){
+    input[type="number"]{
+     
+      width: 20vh !important;;
+     
+     }
+
+     input[type="text"]{
+      width:20vh !important;
+     
+     }
+     .search_food{
+    
+      background-image:url("./assets/hp.jpg");
+      background-repeat:no-repeat;
+      background-size: 1400px 300px;
+      
+      }
+
+  }
+
 
   @media screen and (max-width:350px){
     input[type="text"]{
